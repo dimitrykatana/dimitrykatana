@@ -5,4 +5,4 @@ React or Vue or CMS like Strapi. I also have a background of UX/UI designer and 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrykatana&count_private=true&show_icons=true&theme=codeSTACKr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrykatana&theme=codeSTACKr&hide=objective-c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrykatana&theme=codeSTACKr&hide=objective-c&layout=compact)
