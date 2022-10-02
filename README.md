@@ -8,11 +8,11 @@ Also, I'm looking for an internship in front-end development.
 💻 JS / HTML / CSS / SCSS / TYPESCRIPT
 Learning React and Strapi 
 
-## Socials    
-[<img src='https://img.shields.io/badge/-Twitter-blue' alt='twitter' height='20'>](https://twitter.com/Code_1s_Art),
+<!-- ## Socials     -->
+<!-- [<img src='https://img.shields.io/badge/-Twitter-blue' alt='twitter' height='20'>](https://twitter.com/Code_1s_Art),
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='20'>](https://codesandbox.io/u/dimitrykatana),
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/ditrymi), 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mevlut-duran-501b59227/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mevlut-duran-501b59227/)   -->
 
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrykatana&count_private=true&show_icons=true&theme=codeSTACKr)
