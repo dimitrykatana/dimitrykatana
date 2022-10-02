@@ -2,7 +2,7 @@
 **`UX/UI and Front-end developer`**
 
 I'm Mevlut from Belgium and I really enjoy programming. I am learning React and Strapi.
-Also, I'm looking for an internship in front-end development.
+I'm looking for an internship in front-end development.
 
 ## Skills
 💻 JS / HTML / CSS / SCSS / TYPESCRIPT
