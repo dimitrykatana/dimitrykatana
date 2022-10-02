@@ -1,4 +1,4 @@
-# Hi there 👋
+# Mevlüt Duran
 **`UX/UI and Front-end developer`**
 
 I'm a developer from Belgium and I'm looking for an internship in front-end development. 
