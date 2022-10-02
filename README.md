@@ -14,20 +14,12 @@ I enjoy programming and learning new frameworks.
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
 <br />
-<br />
 
 ##  What I'm learning
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typesript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Vuejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> 
 
-<!-- ## Socials     -->
-<!-- [<img src='https://img.shields.io/badge/-Twitter-blue' alt='twitter' height='20'>](https://twitter.com/Code_1s_Art),
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='20'>](https://codesandbox.io/u/dimitrykatana),
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/ditrymi), 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mevlut-duran-501b59227/)   -->
-
-<br />
 <br />
 
 ## My stats
