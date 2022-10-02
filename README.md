@@ -23,7 +23,7 @@ I enjoy programming and learning new frameworks.
 <br />
 
 ## My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrykatana&count_private=true&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrykatana&count_private=true&show_icons=true&theme=gotham)
 
 <!-- ## My languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrykatana&theme=codeSTACKr&hide=objective-c&layout=compact)
