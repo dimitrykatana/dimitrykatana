@@ -9,10 +9,10 @@ Also, I'm looking for an internship in front-end development.
 Learning React and Strapi 
 
 ## Socials    
-[<img src='https://img.shields.io/badge/-Twitter-blue' alt='twitter' height='40'>](https://twitter.com/Code_1s_Art),
-[<img src='https://custom-icon-badges.demolab.com/badge/codesandbox.svg?logo=paintbrush&logoColor=white' alt='codesandbox' height='40'>](https://codesandbox.io/u/dimitrykatana),
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ditrymi), 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mevlut-duran-501b59227/)  
+[<img src='https://img.shields.io/badge/-Twitter-blue' alt='twitter' height='10'>](https://twitter.com/Code_1s_Art),
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='10'>](https://codesandbox.io/u/dimitrykatana),
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='10'>](https://codepen.io/ditrymi), 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='10'>](https://www.linkedin.com/in/mevlut-duran-501b59227/)  
 
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrykatana&count_private=true&show_icons=true&theme=codeSTACKr)
