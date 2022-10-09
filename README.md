@@ -1,8 +1,7 @@
 # Mevlüt Duran
 **`UX/UI and Front-end developer`**
 
-I'm a developer from Belgium and I'm looking for an internship in front-end development. 
-I enjoy programming and learning new frameworks.
+I'm a developer from Belgium. I enjoy programming and learning new technologies.
 
 ##  What I can use
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
